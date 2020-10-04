@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OfflineListing</string>
+    <string name="yr">yrs, </string>
+    <string name="msg_accpect">Member accepted</string>
+    <string name="msg_reject">Member declined</string>
+    <string name="no_msg">Member</string>
+</resources>
